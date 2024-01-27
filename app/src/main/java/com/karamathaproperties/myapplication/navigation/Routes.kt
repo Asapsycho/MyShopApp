@@ -1,0 +1,16 @@
+package com.karamathaproperties.myapplication.navigation
+
+const val ROUTE_HOME="home_page"
+const val ROUTE_REGISTER="register_page"
+const val ROUTE_LOGIN="login_page"
+const val ROUTE_RESET="reset_page"
+const val ROUTE_PRODUCT="product_page"
+const val ROUTE_ADD_PRODUCT="addproducts"
+const val ROUTE_PRDCTDETAILCHOCOLATE="pdctdetail_chocopage"
+const val ROUTE_PRDCTDETAILSWEETS="pdctdetail_sweetspage"
+const val ROUTE_PRDCTDETAILSPEADABLES="pdctdetail_speadablespage"
+const val ROUTE_PRDCTDETAILCEREALS="pdctdetail_cerealspage"
+const val ROUTE_VIEW_PRODUCT="viewproducts"
+const val ROUTE_UPDATE_PRODUCT="update_products"
+const val ROUTE_VIEW_UPLOAD="view_upload"
+const val ROUTE_ADMIN_VIEW="admin_page"

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987449222840",
+    "project_id": "my-application-6434e",
+    "storage_bucket": "my-application-6434e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987449222840:android:b052daba594484d465364d",
+        "android_client_info": {
+          "package_name": "com.karamathaproperties.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9J5uuLV2Wez5cEzpxbgF6hNez3KIltm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
